@@ -16,5 +16,5 @@
 
 ## Discussion Topics :
 
-1. 1. [Versions of firewall](versions.md)
+1. [Versions of firewall](versions.md)
 
