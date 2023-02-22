@@ -18,3 +18,4 @@
 
 1. [Versions of firewall](versions.md)
 
+2. [Types of firewalls](firewall_types.md)
